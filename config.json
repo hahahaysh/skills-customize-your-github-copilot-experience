@@ -65,6 +65,13 @@
       "description": "Create a small FastAPI application that exposes CRUD endpoints for managing items and returns JSON data.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-09-06"
+    },
+    {
+      "id": "html-css-basics",
+      "title": "HTML & CSS Basics",
+      "description": "Create a simple personal webpage using HTML and CSS to organize content and style a page in the browser.",
+      "path": "assignments/html-css-basics",
+      "dueDate": "2026-09-06"
     }
   ]
 }
